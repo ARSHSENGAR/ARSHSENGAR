@@ -1,5 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://arshsengar.io)
-<h1 align="center">Hi 👋, I'm Arsh Sengar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arsh+Sengar;Welcome+to+my+Github!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="centre">I am versatile as well as adaptable to various hats, such as: 🌐Full Stack Developer and 👨🏽‍💻Competitive Programmer specializing in various languages. I love exploring new tech stack and leveraging them to build cool projects.</h3>
 <img src="https://user-images.githubusercontent.com/125123604/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif" alt="Coding Now!" width=400 align="right">
 
