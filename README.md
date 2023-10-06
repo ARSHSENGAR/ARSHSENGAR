@@ -1,7 +1,7 @@
 <!--Master Section:-->
 [![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://arshsengar.io)
 
-#Welcome Section:
+<!--Welcome Section:-->
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There +👋;This+is+Arsh+Sengar;Welcome+to+my+Github!&center=true&size=40">
@@ -178,11 +178,11 @@
   <a href="https://stackoverflow.com/users/21213162/arsh-sengar" alt="stackoverflow"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
-<!--Stats:-->
+<!--Stats Section:-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARSH SENGAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARSH SENGAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshsengar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshsengar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/ARSHSENGAR/ARSHSENGAR/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arshsengar/arshsengar/output/snake.svg" alt="Snake animation" />
