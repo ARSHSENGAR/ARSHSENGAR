@@ -1,4 +1,4 @@
-#Master Section:
+<!--Master Section:-->
 [![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)](https://arshsengar.io)
 
 #Welcome Section:
@@ -8,13 +8,13 @@
 	</a>
 </h1>
 
-#Personal Information Section:
-#About Me:
+<!--Personal Information Section:-->
+<!--About Me:-->
 <h3 align="center">
 	I am versatile as well as adaptable to various hats, such as: 🌐Full Stack Developer and 👨🏽‍💻Competitive Programmer specializing in various languages. I love exploring new tech stack and leveraging them to build cool projects.
 </h3>
 
-#Status:
+<!--Status:-->
 <img align="right" height="160" src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif"  />
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **Bit Manipulation Sucks....**
 
-#Skills:
+<!--Skills:-->
 <div align="left">
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
@@ -170,7 +170,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
 </div>
 
-#Contact Section:
+<!--Contact Section:-->
 <div align="left">
   <a href="arshsengar4444@gmail.com" alt="gmail"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.hackerrank.com/ARSHM4" alt="Hackerrank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
@@ -178,7 +178,7 @@
   <a href="https://stackoverflow.com/users/21213162/arsh-sengar" alt="stackoverflow"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
-#Stats:
+<!--Stats:-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARSH SENGAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARSH SENGAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
