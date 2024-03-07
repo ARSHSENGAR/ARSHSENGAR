@@ -19,8 +19,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Project_6_Yatai](coming soon....)
-
 - 👨‍💻 All of my projects are available at [coming soon....](coming soon....)
 
 - 💬 Ask me about **Full Stack Development**
